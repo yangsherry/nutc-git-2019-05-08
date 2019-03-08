@@ -13,6 +13,8 @@
     學習到的內容：
     建議：
 ```
-5. 提交該次的 `commit`，並上傳至自己的`repo`上
-6. 在 `github`中 提交此次的 `pull request`
-7. 完成
+5. 提交該次的 `commit`
+6. 切換至`master`分支並合併
+7. 並上傳至自己的`repo`上
+8. 在 `github`中 提交此次的 `pull request`
+9. 完成
